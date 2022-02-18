@@ -1,4 +1,8 @@
-## Här dyker info upp snart!
+# Info om spelprojektet
+
+[Om sektioner](sections.md)
+
+[Om UI](ui.md)
 
 <!---
 ## Welcome to GitHub Pages
