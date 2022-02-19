@@ -6,6 +6,8 @@
 
 [Om nycklar och dörrar](nycklar.md)
 
+[Material och texturer](material.md)
+
 <!---
 ## Welcome to GitHub Pages
 
