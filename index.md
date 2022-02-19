@@ -4,6 +4,8 @@
 
 [Om UI](ui.md)
 
+[Om nycklar och dörrar](nycklar.md)
+
 <!---
 ## Welcome to GitHub Pages
 
