@@ -18,4 +18,14 @@ Till sist behöver ni ordna så att canvasen dyker upp när man förlorar.
 
 I objektet "Player" och under "On Fail" lägger du till en ny händelse. Den ska referera till din game over canvas som går att hitta under fliken "Scene". Funktionen som ska köras finns vid Gameobject -> SetActive, och rutan ska vara ibockad.
 
+### Startskärm
 
+För att göra en startskärm krävs en knapp, och gärna någon bild och text i bakgrunden för att göra den intressant.
+
+![bild](https://user-images.githubusercontent.com/70745846/154799374-383e31b7-1f09-4b2b-87a7-0ac56295e15f.png)
+
+Håll sedan ner ctrl och välj alla objekt som hör till startmenyn, högerklicka och välj "Create Empty Parent". Det gör att de objekten hamnar tillsammans under samma objekt, som sedan enkelt kan visas och döljas. Kalla det nya objektet "StartScreen" eller nåt liknande.
+
+![bild](https://user-images.githubusercontent.com/70745846/154799499-71233402-1a52-41ae-93d6-38e698fd147d.png)
+
+Sen ska knappen på startskärmen dölja skärmen. Markera knappen och skrolla ner till "On Click" i inspectorn. Gör en ny händelse och välj det nya parent-objektet under fliken "Scene". Funktionen som ska köras finns vid Gameobject -> SetActive, och rutan ska vara avbockad.
