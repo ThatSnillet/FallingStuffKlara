@@ -1,5 +1,7 @@
 # Info om spelprojektet
 
+[Exportera spelet](export.md)
+
 [Om sektioner](sections.md)
 
 [Om UI](ui.md)
