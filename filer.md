@@ -4,6 +4,8 @@ Ladda ned dem [här](Assets.zip)
 
 Om något saknas eller inte fungerar korrekt kan det vara att du behöver ladda ned uppdaterade spelfiler. Filerna jag delat ut till er finns ovan.
 
+I filerna ovan finns också det nya scriptet "DamageTrigger" som gör att spelaren tar skada om den överlappar objektet med scriptet på sig.
+
 ![bild](https://user-images.githubusercontent.com/70745846/154852189-2d9480c7-2dd8-4aa8-ade4-fd6260709ac0.png)
 
 För att extrahera filerna till ert unity-projekt måste ni hitta projektets "Assets"-mapp. I unity, gå till grundmappen "Assets", högerklicka vid en tom yta där och klicka sedan "Show in Explorer".
