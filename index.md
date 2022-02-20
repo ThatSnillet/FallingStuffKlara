@@ -8,6 +8,8 @@
 
 [Material och texturer](material.md)
 
+[Medföljande spelfiler](filer.md)
+
 <!---
 ## Welcome to GitHub Pages
 
